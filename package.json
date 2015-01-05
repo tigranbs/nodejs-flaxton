@@ -1,0 +1,8 @@
+{
+  "name": "flaxton_protocol",
+  "description": "Networking Protocol",
+  "author": "Flaxton <hello@flaxton.io>",
+  "dependencies": {
+    "async": "0.9.0"
+  }
+}
