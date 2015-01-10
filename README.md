@@ -1,9 +1,9 @@
 Flaxton Network Protocol
 ==============
 
-Flaxton protocol is combination with TCP and UDP standart Transport Layer protocols which is crated in 1987.
-The main goal to make new Transport layer protocol is for adding TCP top stability and UDP speed together.<br/>
-Chckout <a href="http://flaxton.io">flaxton.io</a> and learn more about protocol and load balancing tool based on it.
+Flaxton protocol is a combination of TCP and UDP standard Transport Layer protocols, which are created back in 1987. The primary goal to creating new Transport layer protocol is for adding TCP top stability and UDP speed together.<br/>
+Checkout <a href="http://flaxton.io">flaxton.io</a> and learn more about protocol and load balancing tool based on it.
+
 
 Node.js Flaxton Protocol
 ==============
